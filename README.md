@@ -1,49 +1,27 @@
 # VarOps  
+
 ### Engineering. Operations. Clarity.
 
 > [!IMPORTANT]
-> VarOps builds, integrates, and operates complex software systems.  
-> We help ambitious founders and teams go from prototype to production —  
-> cleanly, efficiently, and at scale.
+> We build, integrate, and operate complex software systems, helping teams go from prototype to production cleanly, efficiently, and at scale. cleanly, efficiently, and at scale.
 
----
+Hi, We're VarOps 👋
 
-## What we do
+We beleive that software should make complexity simple — not the other way around.
 
-- **Software engineering** — backend, frontend, and full-stack systems  
-- **Integration & automation** — connecting APIs, data flows, and AI tools  
-- **Cloud infrastructure** — deployment, scaling, and DevOps  
-- **Technical operations** — ongoing maintenance and system reliability  
-- **Advisory & architecture** — designing scalable, maintainable systems  
+We focus on clarity, maintainability, and long-term value, helping you scale sustainably and confidently.
 
 Our team delivers high-quality engineering and operations for companies that need precision and speed without the overhead.
 
----
+### How we work
 
-## How we work
-
-1. **Discovery & architecture** — understanding your goals and designing a plan that fits.  
-2. **Build & integrate** — full-stack development, automation, and system deployment.  
-3. **Operate & evolve** — continuous support, monitoring, and iterative improvements.  
+1. **Discovery & architecture** — understanding your goals and designing a plan that fits.
+2. **Build & integrate** — full-stack development, automation, and system deployment.
+3. **Operate & evolve** — continuous support, monitoring, and iterative improvements.
 
 Every engagement is built around transparency, communication, and measurable outcomes.
 
----
-
-## Our philosophy
-
-Software should make complexity simple — not the other way around.  
-We focus on clarity, maintainability, and long-term value, helping you scale sustainably and confidently.  
-
----
-
-## Our structure
-
-VarOps LLC is a U.S. company with global partners. We're combining strong engineering with reliable operations to help founders and businesses move faster.
-
----
-
-## Get in touch
+### Get in touch
 
 If you’re building something serious and need experienced hands to bring it to life — let’s talk.
 
@@ -52,3 +30,5 @@ If you’re building something serious and need experienced hands to bring it to
 ---
 
 © VarOps LLC · All rights reserved.
+
+> VarOps is a U.S. company with global partners, combining strong engineering with reliable operations to help founders and businesses move faster.
