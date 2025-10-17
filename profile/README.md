@@ -1,6 +1,4 @@
-# VarOps  
-
-### Engineering. Operations. Clarity.
+# VarOps: Engineering. Operations. Clarity.
 
 > [!IMPORTANT]
 > We build, integrate, and operate complex software systems, helping teams go from prototype to production cleanly, efficiently, and at scale.
