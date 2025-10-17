@@ -39,8 +39,7 @@ We focus on clarity, maintainability, and long-term value, helping you scale sus
 
 ## Our structure
 
-VarOps LLC is a U.S. company under the **GroovyMade** corporate umbrella.  
-We collaborate globally, combining strong engineering with reliable operations to help founders and businesses move faster.
+VarOps LLC is a U.S. company with global partners. We're combining strong engineering with reliable operations to help founders and businesses move faster.
 
 ---
 
